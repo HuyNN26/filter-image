@@ -1,1 +1,1 @@
-EBURL :https://image-filter-project02-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+EBURL :http://udacity-project-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/free-vector/sea-beach-with-palm-tree-leaves-background-summer_33099-1767.jpg?t=st=1657372816~exp=1657373416~hmac=9bbee7bd09e38334f0dd689d81fcabe11fbcf7feb3c4070dddb702f6ccb45b2c&w=1380
